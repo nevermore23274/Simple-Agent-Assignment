@@ -10,3 +10,5 @@ Final assignment in my AI course was to make a simple Reflex agent to suggest ta
 | Diamondback    | 0-15 Years Old    | Up to 5 inches    | 60 Gallons    |
 | Diamondback    | Over 15 Years Old    | 8    | 80 Gallons    |
 | Peninsula Cooter    | Any    | 16    | 160 Gallons    |
+
+Find the commands to run in [/docker/DockerCommands.md](https://github.com/nevermore23274/Simple-Agent-Assignment/blob/main/docker/DockerCommands.md).
